@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/CloudTechDevOps/Kubernetes.git
+    repoURL: https://github.com/soubhagya11/Kubernetes-main
     targetRevision: HEAD
     path: day-6-privateimage-deploy
   destination: 
